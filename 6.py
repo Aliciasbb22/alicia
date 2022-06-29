@@ -1,0 +1,10 @@
+print("type age")
+age=input()
+print(age)
+print("name")
+name=input()
+print(name)
+#print("name and age")
+#name=input()
+print(age+" "+name)
+space = " "
